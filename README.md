@@ -2,9 +2,8 @@
 <h1 align="center">Python Terminal Sudoku</h1>
 
 <div align="center">
-  <a href="https://github.com/MartinGurasvili/Calculator">
     <img width="200" height="200" alt="cas" src="https://user-images.githubusercontent.com/76784461/155786096-7fbac880-9f8b-4e53-9acd-a5179ffff0a0.png">
-  </a>
+  
 
 
 
